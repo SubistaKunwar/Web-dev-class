@@ -1,0 +1,28 @@
+* {
+  font-family: "Playwrite NZ Basic", cursive;
+}
+
+
+#donald {
+  padding: 10px;
+}
+
+
+.donald {
+  border: 5px solid #000;
+  border-radius: 15px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  width: 50%;
+}
+
+
+.donald img {
+  width: 50%;
+  height: auto;
+  border-radius: 10px;
+}
+
+
+
+
