@@ -1,0 +1,27 @@
+* {
+  font-family: "Playwrite NZ Basic", cursive;
+}
+
+#donald {
+  padding: 10px;
+}
+
+#card {
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 10px;
+  
+}
+.donald {
+  padding: 10px;
+  width: 50%;
+}
+
+.donald img {
+  width: 50%;
+  border-radius: 10px;
+}
+
+
+
+
